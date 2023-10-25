@@ -4,16 +4,15 @@ Experienced Full-Stack Software Engineer
 <!-- About Me -->
 I am an experienced and prolific full-stack software engineer with a passion for metrics and exceeding "best-yets". With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies. 
 
-- 🔥 **Programming Languages**: C, C++, JAVA, JavaScript, Python, PHP, SQL
+- 🔥 **Programming Languages**: C, C++, JAVA, JavaScript, Python, PHP
 - 🚀 **PHP Framework**: Laravel
-- 🌐 **Python Framework**: Django
-- 📊 **JavaScript Frameworks & Libraries**: React.js, Vue.js, jQuery, Node.js, Express.js, and more
+- 📊 **JavaScript Frameworks & Libraries**: React.js, Vue.js, jQuery, Node.js
 - 🎨 **CSS Framework**: Bootstrap
 - 🔌 **API Integration**: REST API
 - 🛢️ **RDBMS**: MySQL
 - 🌐 **Web Server**: Apache, AWS
 - 💻 **Operating Systems**: Mac OS, Windows, Ubuntu, and more
-- 🌟 **Others**: HTML, CSS, XML, AJAX
+- 🌟 **Others**: HTML, CSS, AJAX
 - 🖥️ **IDE**: PHP Storm, Visual Studio, Net Beans, Dreamweaver, MATLAB
 
 Outside of work, I enjoy reading books, traveling, and playing FIFA with friends and colleagues. With my passion for software engineering and my extensive skill set, I am confident in my ability to help companies build high-quality applications that meet their unique needs and exceed their expectations.
