@@ -30,14 +30,14 @@ Dhaka Trade Center, 99 Kazi Nazrul Islam Ave, Dhaka 1215
 - 📈 Led the adoption of microservices architecture, resulting in faster release cycles and improved scalability.
 
 ### TechnicalBind
-**Founder** (Feb 2017 - Present)
+**Founder & Self-Employed** (Feb 2017 - Present)
 Narayanganj District, Dhaka, Bangladesh
 
 - 🚀 Provided customized software solutions to clients in various industries.
 - 💻 Responsible for the entire software development lifecycle, from requirements gathering to deployment and maintenance.
 
 ### DataSoft Systems Bangladesh Limited
-**Software Engineer** (Feb 2021 - May 2021)
+**Intern Software Engineer** (Feb 2021 - May 2021)
 Rupayan Shelford, Mirpur Rd, Dhaka 1207, Bangladesh
 
 - 👥 Worked with a team of software engineers to develop and maintain software applications for the company.
