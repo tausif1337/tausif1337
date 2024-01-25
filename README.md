@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tausif <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> </h1>
+<h1 align="left">Hi, I'm Tausif <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px"> </h1>
 
 <!-- About Me -->
 I am an experienced full-stack software engineer with a passion for metrics and exceeding "best-yets". With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies. 
@@ -75,3 +75,8 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
 ### GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=tausif1337&theme=juicyfresh&no-bg=true" />
+
+
+### GitHub Views
+
+[Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
