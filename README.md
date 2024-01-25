@@ -61,3 +61,9 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
 
 - **2nd Runners up in DIU App Contest 2017** (Issued by Daffodil International University, May 2017)
   - An amazing achievement in a brainstorming Hackathon event.
+
+
+#### Github Stats
+
+![Tausif's github stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=tokyonight&hide=contribs,prs)
+
