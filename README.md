@@ -1,6 +1,8 @@
 # Hi, I'm Tausif! 👋
 Senior Full-Stack Software Engineer
 
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Tausif</h1>
+
 <!-- About Me -->
 I am an experienced and prolific full-stack software engineer with a passion for metrics and exceeding "best-yets". With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies. 
 
@@ -63,6 +65,16 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
   - An amazing achievement in a brainstorming Hackathon event.
 
 
-#### Github Stats
+## 📈 My GitHub Stats
+### GitHub Stars
 
-![Tausif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=white&hide=contribs,prs)
+![Tausif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=tausif1337&theme=juicyfresh&no-bg=true" />
