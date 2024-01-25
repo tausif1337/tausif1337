@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Tausif</h1>
+<h1 align="center">Hi, I'm Tausif <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> </h1>
 
 <!-- About Me -->
 I am an experienced full-stack software engineer with a passion for metrics and exceeding "best-yets". With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies. 
