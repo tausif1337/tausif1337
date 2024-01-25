@@ -69,7 +69,7 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif1337&layout=compact)](https://github.com/tausif1337/github-readme-stats)
 
 
 ### GitHub Trophies
