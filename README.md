@@ -65,5 +65,4 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
 
 #### Github Stats
 
-![Tausif's github stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+![Tausif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=white&hide=contribs,prs)
