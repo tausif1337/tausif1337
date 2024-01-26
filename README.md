@@ -1,5 +1,11 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px"> I'm Md. Tausif Hossain</h1>
 
+<div align="center">
+  <img src ="./tausif1337.jpg" />
+  
+</div>
+
+ <br/>
 <!-- About Me -->
 ## 👨🏻‍💻 About Me:
 
