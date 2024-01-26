@@ -17,7 +17,7 @@ I am an experienced full-stack software engineer with a passion for metrics and 
 - 🔥 **Programming Languages**: C, C++, JAVA, JavaScript, Python, PHP
 - 🚀 **PHP Framework**: Laravel
 - 📊 **JavaScript Frameworks & Libraries**: React.js, Vue.js, jQuery, Node.js
-- 🎨 **CSS Framework**: Bootstrap
+- 🎨 **CSS Framework**: Bootstrap, Tailwind CSS
 - 🔌 **API Integration**: REST API
 - 🛢️ **RDBMS**: MySQL
 - 🌐 **Web Server**: Apache, AWS
@@ -41,7 +41,7 @@ Dhaka Trade Center, 99 Kazi Nazrul Islam Ave, Dhaka 1215
 
 ### TechnicalBind
 **Founder & Self-Employed** (Feb 2017 - Present)
-Narayanganj District, Dhaka, Bangladesh
+Narayanganj 1420, Dhaka, Bangladesh
 
 - 🚀 Provided customized software solutions to clients in various industries.
 - 💻 Responsible for the entire software development lifecycle, from requirements gathering to deployment and maintenance.
@@ -73,6 +73,16 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
   - An amazing achievement in a brainstorming Hackathon event.
 
 
+## My Passion:
+At the core of my professional journey lies a deep-seated enthusiasm for metrics. I am fascinated by the insights they provide and the opportunities they unlock for continuous improvement. This passion propels me to push boundaries, explore uncharted territories, and deliver solutions that not only meet but exceed expectations.
+
+## What Drives Me:
+The thrill of navigating the ever-evolving landscape of software development fuels my drive. I find joy in embracing challenges, solving complex problems, and staying at the forefront of technological advancements. Every project is an opportunity to create something extraordinary, and it's this pursuit of excellence that keeps me inspired.
+
+## Contributions that Make a Difference:
+I believe that every line of code, every thoughtful design choice, and every optimization contributes to the larger narrative of progress. In my work, I strive to make a tangible impact by creating applications that not only function seamlessly but also elevate user experiences. It's not just about meeting specifications; it's about leaving an indelible mark of quality and innovation.
+
+
 ## 📈 My GitHub Stats
 ### GitHub Stars
 
@@ -86,8 +96,3 @@ Independent University, Bangladesh (Jan 2016 - May 2021)
 ### GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=tausif1337&theme=juicyfresh&no-bg=true" />
-
-
-### GitHub Views
-
-[Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
