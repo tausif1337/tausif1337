@@ -10,7 +10,7 @@
 <!-- About Me -->
 ## About Me:
 
-I am a Full-Stack Software Engineer from <img src="assets/bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies.
+I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
