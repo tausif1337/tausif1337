@@ -81,18 +81,3 @@ The thrill of navigating the ever-evolving landscape of software development fue
 
 ## Contributions that Make a Difference:
 I believe that every line of code, every thoughtful design choice, and every optimization contributes to the larger narrative of progress. In my work, I strive to make a tangible impact by creating applications that not only function seamlessly but also elevate user experiences. It's not just about meeting specifications; it's about leaving an indelible mark of quality and innovation.
-
-
-## 📈 My GitHub Stats
-### GitHub Stars
-
-![Tausif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tausif1337&count_private=true&theme=radical)
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif1337&layout=compact)](https://github.com/tausif1337/github-readme-stats)
-
-
-### GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=tausif1337&theme=juicyfresh&no-bg=true" />
