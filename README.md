@@ -16,6 +16,7 @@ I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> 
 
 - 🔥 **Programming Languages**: C, C++, JAVA, JavaScript, Python, PHP
 - 🚀 **PHP Framework**: Laravel
+- 🚀 **Python Framework**: Django
 - 📊 **JavaScript Frameworks & Libraries**: React.js, Vue.js, jQuery, Node.js
 - 🎨 **CSS Framework**: Bootstrap, Tailwind CSS
 - 🔌 **API Integration**: REST API
