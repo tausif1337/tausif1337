@@ -4,8 +4,6 @@
   <img src ="./header.jpg" />
 </div>
 
-<br/>
-
 <!-- About Me -->
 ## About Me:
 
