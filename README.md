@@ -7,21 +7,28 @@
 <!-- About Me -->
 ## About Me:
 
-I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. At DevTechGuru, my role as Technical Lead centers around steering a vibrant team of developers in crafting innovative software solutions. We thrive on agile methodologies, ensuring our projects align seamlessly with business demands and yield robust technical frameworks. With a B.Sc. in Computer Science and Engineering, I bring a foundation of academic rigor to my practical expertise in DevOps, Generative AI, CI/CD, AWS, Python (Django), PHP (Laravel), JavaScript (React, Vue, jQuery), MySQL. My commitment to excellence translates into meticulous code reviews and fostering a collaborative environment where creativity meets technology.
+I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. 
+
+At DevTechGuru, my role as Technical Lead centers around steering a vibrant team of developers in crafting innovative software solutions. We thrive on agile methodologies, ensuring our projects align seamlessly with business demands and yield robust technical frameworks. 
+
+With a B.Sc. in Computer Science and Engineering, I bring a foundation of academic rigor to my practical expertise in DevOps, Generative AI, CI/CD, AWS, Python (Django), PHP (Laravel), JavaScript (React, Vue.js, Node.js, jQuery), MySQL. My commitment to excellence translates into meticulous code reviews and fostering a collaborative environment where creativity meets technology.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔥 **Programming Languages**: C, C++, JAVA, JavaScript, Python, PHP
-- 🚀 **PHP Framework**: Laravel
-- 🚀 **Python Framework**: Django
-- 📊 **JavaScript Frameworks & Libraries**: React.js, Vue.js, jQuery, Node.js
-- 🎨 **CSS Framework**: Bootstrap, Tailwind CSS
-- 🔌 **API Integration**: REST API
-- 🛢️ **RDBMS**: MySQL
-- 🌐 **Web Server**: Apache, AWS
-- 💻 **Operating Systems**: Mac OS, Windows, Ubuntu, and more
-- 🌟 **Others**: HTML, CSS, AJAX
-- 🖥️ **IDE**: PHP Storm, Visual Studio, Net Beans, Dreamweaver, MATLAB
+- 🔥 Programming Languages: C, C++, JAVA, JavaScript, Python, PHP
+- 🚀 PHP Framework: Laravel
+- 🚀 Python Framework: Django
+- 📊 JavaScript Frameworks & Libraries: React.js, Vue.js, jQuery, Node.js
+- 🎨 CSS Framework: Bootstrap, Tailwind CSS
+- 🔌 API Integration: REST API
+- 🛢️ RDBMS: MySQL, SQLite
+- 🌐 Web Server: Apache, AWS, Nginx
+- ⚙️ DevOps: Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
+- 🔄 CI/CD: GitLab CI, GitHub Actions, CircleCI, Travis CI
+- 🤖 AI: TensorFlow, PyTorch, Scikit-learn, Keras, OpenAI GPT
+- 💻 Operating Systems: Mac OS, Windows, Ubuntu, and more
+- 🌟 Others: HTML, CSS, AJAX
+- 🖥️ IDE: PHP Storm, Visual Studio, Net Beans, Dreamweaver, MATLAB
 
 Outside of work, I enjoy reading books 📚, traveling ✈️, and playing FIFA ⚽ with friends and colleagues.
 
