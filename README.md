@@ -23,13 +23,13 @@ I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> 
 - 🌟 **Others**: HTML, CSS, AJAX
 - 🖥️ **IDE**: PHP Storm, Visual Studio, Net Beans, Dreamweaver, MATLAB
 
-Outside of work, I enjoy reading books, traveling, and playing FIFA with friends and colleagues. With my passion for software engineering and my extensive skill set, I am confident in my ability to help companies build high-quality applications that meet their unique needs and exceed their expectations.
+Outside of work, I enjoy reading books 📚, traveling ✈️, and playing FIFA ⚽ with friends and colleagues.
 
 <!-- Experience -->
 ## Experience
 
 ### DevTechGuru
-**Founding Member, Technical Leader, Senior Software Engineer** (Nov 2021 - Present)
+**Founding Member, Technical Leader, Senior Full-Stack Software Engineer** (Nov 2021 - Present)
 Dhaka Trade Center, 99 Kazi Nazrul Islam Ave, Dhaka 1215
 
 - 🚀 Responsible for leading a team of developers and engineers to deliver cutting-edge software solutions.
