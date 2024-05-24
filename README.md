@@ -7,7 +7,7 @@
 <!-- About Me -->
 ## About Me:
 
-I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. With over 6 years of experience, I have honed my skills in building complex and world-class web and mobile applications using modern technologies.
+I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. At DevTechGuru, my role as Technical Lead centers around steering a vibrant team of developers in crafting innovative software solutions. We thrive on agile methodologies, ensuring our projects align seamlessly with business demands and yield robust technical frameworks. With a B.Sc. in Computer Science and Engineering, I bring a foundation of academic rigor to my practical expertise in DevOps, Generative AI, CI/CD, AWS, Python (Django), PHP (Laravel), JavaScript (React, Vue, jQuery), MySQL. My commitment to excellence translates into meticulous code reviews and fostering a collaborative environment where creativity meets technology.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
