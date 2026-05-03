@@ -1,88 +1,202 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px"> I'm <a href="https://tausif1337.dev"> Tausif </a></h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px" alt="Waving Hand"/>
+  Hey, I'm <a href="https://tausif1337.dev">Tausif</a>
+</h1>
+
+<p align="center">
+  <a href="https://tausif1337.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Technical+Lead+%40+DevTechGuru;DevOps+%2B+Generative+AI+enthusiast;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tausif1337.dev"><img src="https://img.shields.io/badge/Portfolio-tausif1337.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:devtech.claude@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tausif1337&style=for-the-badge&color=00C8FF&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/tausif1337?style=for-the-badge&color=00C8FF&labelColor=1a1a1a"/>
+</p>
 
 <div align="center">
-  <img src ="./header.jpg" />
+  <img src="./header.jpg" alt="Header banner"/>
 </div>
 
-<!-- About Me -->
-## About Me:
+---
 
-I am a Full-Stack Software Engineer from <img src="bangladesh.png" width="18"/> Bangladesh with a passion for coding outstanding projects. 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-At DevTechGuru, my role as Technical Lead centers around steering a vibrant team of developers in crafting innovative software solutions. We thrive on agile methodologies, ensuring our projects align seamlessly with business demands and yield robust technical frameworks. 
+```yaml
+name:        Tausif
+role:        Full-Stack Software Engineer & Technical Lead
+location:    🇧🇩 Bangladesh
+company:     DevTechGuru
+education:   B.Sc. in Computer Science & Engineering
+focus:       DevOps · Generative AI · CI/CD · AWS · Scalable Web Apps
+hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
+motto:       "Every line of code is an opportunity to leave a mark."
+```
 
-With a B.Sc. in Computer Science and Engineering, I bring a foundation of academic rigor to my practical expertise in DevOps, Generative AI, CI/CD, AWS, Python (Django), PHP (Laravel), JavaScript (React, Vue.js, Node.js, jQuery), MySQL. My commitment to excellence translates into meticulous code reviews and fostering a collaborative environment where creativity meets technology.
+At **DevTechGuru**, I lead a team of developers crafting innovative software solutions through agile methodologies — translating business demands into robust technical frameworks. With a foundation of academic rigor and a track record across PHP, Python, JavaScript, and DevOps, I thrive on meticulous code reviews and collaborative environments where creativity meets technology.
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="./thoughtworks-gif_dribbble.gif" height="240px" align="right" alt="Coding animation"/>
 
-- 🔥 Programming Languages: C, C++, JAVA, JavaScript, Python, PHP
-- 🚀 PHP Framework: Laravel
-- 🚀 Python Framework: Django
-- 📊 JavaScript Frameworks & Libraries: React.js, Vue.js, jQuery, Node.js
-- 🎨 CSS Framework: Bootstrap, Tailwind CSS
-- 🔌 API Integration: REST API
-- 🛢️ RDBMS: MySQL, SQLite
-- 🌐 Web Server: Apache, AWS, Nginx
-- ⚙️ DevOps: Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
-- 🔄 CI/CD: GitLab CI, GitHub Actions, CircleCI, Travis CI
-- 🤖 AI: TensorFlow, PyTorch, Scikit-learn, Keras, OpenAI GPT
-- 💻 Operating Systems: Mac OS, Windows, Ubuntu, and more
-- 🌟 Others: HTML, CSS, AJAX
-- 🖥️ IDE: PHP Storm, Visual Studio, Net Beans, Dreamweaver, MATLAB
+- 🔭 Currently leading microservices adoption at **DevTechGuru**
+- 🌱 Deep-diving into **Generative AI** & advanced **MLOps** workflows
+- 💼 Founder of [TechnicalBind](https://tausif1337.dev) — custom software since 2017
+- 🎯 Goal: build software that elevates user experiences, not just meets specs
+- ⚡ Fun fact: I get genuinely excited about dashboards and metrics 📊
 
-Outside of work, I enjoy reading books 📚, traveling ✈️, and playing FIFA ⚽ with friends and colleagues.
+---
 
-<!-- Experience -->
-## Experience
+## 🛠️ Tech Stack
 
-### DevTechGuru
-**Founding Member, Technical Leader, Senior Full-Stack Software Engineer** (Nov 2021 - Present)
-Dhaka Trade Center, 99 Kazi Nazrul Islam Ave, Dhaka 1215
+<div align="center">
 
-- 🚀 Responsible for leading a team of developers and engineers to deliver cutting-edge software solutions.
-- 💼 Collaborated with cross-functional teams to understand business requirements and translate them into technical solutions.
-- 👨‍💻 Led the development team through the software development lifecycle, from design to deployment, ensuring adherence to best practices and standards.
-- 📈 Led the adoption of microservices architecture, resulting in faster release cycles and improved scalability.
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,html,css,bash"/>
 
-### TechnicalBind
-**Founder & Self-Employed** (Feb 2017 - Present)
-Narayanganj 1420, Dhaka, Bangladesh
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,django,react,vue,nodejs,jquery,bootstrap,tailwind"/>
 
-- 🚀 Provided customized software solutions to clients in various industries.
-- 💻 Responsible for the entire software development lifecycle, from requirements gathering to deployment and maintenance.
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,nginx,apache"/>
 
-### DataSoft Systems Bangladesh Limited
-**Intern Software Engineer** (Feb 2021 - May 2021)
-Rupayan Shelford, Mirpur Rd, Dhaka 1207, Bangladesh
+### DevOps & CI/CD
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab,ansible,terraform"/>
 
-- 👥 Worked with a team of software engineers to develop and maintain software applications for the company.
-- 💼 Collaborated with senior software engineers to develop software applications using a variety of programming languages and tools.
-- 🌐 Gained hands-on experience in software development processes.
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
 
-<!-- Education -->
-## Education
+### Tools & IDEs
+<img src="https://skillicons.dev/icons?i=phpstorm,visualstudio,vscode,postman,linux,windows,apple"/>
 
-**Bachelor of Science (B.Sc.), Computer Science and Engineering**
-Independent University, Bangladesh (Jan 2016 - May 2021)
+</div>
 
-- 📚 Actively participated in various extracurricular activities and societies.
-- 🤖 Developed critical thinking and problem-solving skills through hackathons, coding competitions, and tech clubs.
+---
 
-<!-- Honors & Awards -->
-## Honors & Awards
+## 💼 Experience
 
-- **SECS Awards 2017** (Issued by Independent University, Bangladesh, Dec 2017)
-  - Received for outstanding contributions in research and competitions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **2nd Runners up in DIU App Contest 2017** (Issued by Daffodil International University, May 2017)
-  - An amazing achievement in a brainstorming Hackathon event.
+### 🚀 DevTechGuru
+**Founding Member · Technical Lead · Sr. Full-Stack Engineer**
+<br/>📅 *Nov 2021 – Present*
+<br/>📍 *Dhaka Trade Center, Dhaka 1215*
 
+- 🎯 Lead a team of developers delivering cutting-edge solutions
+- 🤝 Bridge cross-functional teams — business needs → technical wins
+- 🔄 Drive the full SDLC, from design to deployment
+- 📈 Spearheaded microservices adoption — faster releases & scale
 
-## My Passion:
-At the core of my professional journey lies a deep-seated enthusiasm for metrics. I am fascinated by the insights they provide and the opportunities they unlock for continuous improvement. This passion propels me to push boundaries, explore uncharted territories, and deliver solutions that not only meet but exceed expectations.
+</td>
+<td width="50%" valign="top">
 
-## What Drives Me:
-The thrill of navigating the ever-evolving landscape of software development fuels my drive. I find joy in embracing challenges, solving complex problems, and staying at the forefront of technological advancements. Every project is an opportunity to create something extraordinary, and it's this pursuit of excellence that keeps me inspired.
+### 🌐 TechnicalBind
+**Founder & Self-Employed**
+<br/>📅 *Feb 2017 – Present*
+<br/>📍 *Narayanganj 1420, Dhaka, Bangladesh*
 
-## Contributions that Make a Difference:
-I believe that every line of code, every thoughtful design choice, and every optimization contributes to the larger narrative of progress. In my work, I strive to make a tangible impact by creating applications that not only function seamlessly but also elevate user experiences. It's not just about meeting specifications; it's about leaving an indelible mark of quality and innovation.
+- 💡 Custom software solutions for clients across industries
+- 🛠️ Owner of full lifecycle — gather, build, deploy, maintain
+- 🤝 Long-term client relationships rooted in trust & quality
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧪 DataSoft Systems Bangladesh Limited
+**Intern Software Engineer** — *Feb 2021 – May 2021* — *Rupayan Shelford, Mirpur Rd, Dhaka 1207*
+
+- 👥 Worked alongside senior engineers building & maintaining production apps
+- 💻 Hands-on experience across multiple languages and tooling
+- 🌐 Sharpened software development process fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+> **Bachelor of Science (B.Sc.), Computer Science and Engineering**
+> Independent University, Bangladesh — *Jan 2016 – May 2021*
+>
+> 📚 Active in extracurriculars, hackathons, coding competitions & tech clubs — sharpening critical thinking and problem-solving skills.
+
+---
+
+## 🏆 Honors & Awards
+
+<table>
+<tr>
+<td>🥇</td>
+<td><b>SECS Awards 2017</b><br/><sub>Independent University, Bangladesh — Dec 2017</sub><br/>Recognized for outstanding contributions in research and competitions.</td>
+</tr>
+<tr>
+<td>🥉</td>
+<td><b>2nd Runners-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>A standout finish at a brainstorming hackathon event.</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tausif1337&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00c8ff&icon_color=00c8ff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausif1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tausif1337&theme=tokyonight&hide_border=true&background=0d1117&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tausif1337&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tausif1337&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c8ff&line=00c8ff&point=ffffff" alt="Activity Graph"/>
+</div>
+
+---
+
+## ✨ What Drives Me
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+  <h3>📈 Passion for Metrics</h3>
+  <p>I'm fascinated by what data unlocks — every dashboard is a doorway to continuous improvement.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <h3>🚀 Embracing the Unknown</h3>
+  <p>The thrill of an evolving stack keeps me sharp. New problems = new ways to grow.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <h3>💎 Quality That Lasts</h3>
+  <p>Every commit, every design choice, every optimization — small marks that build great software.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://tausif1337.dev"><img src="https://img.shields.io/badge/Website-tausif1337.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:devtech.claude@gmail.com"><img src="https://img.shields.io/badge/Gmail-devtech.claude-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/tausif1337"><img src="https://img.shields.io/badge/GitHub-tausif1337-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/tausif1337">tausif1337</a> — thanks for stopping by!</i>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:0066ff&height=120&section=footer&reversal=false"/>
+</div>
