@@ -1,17 +1,18 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px" alt="Waving Hand"/>
-  Hey, I'm <a href="https://tausif1337.dev">Tausif</a>
+  Hey, I'm <a href="https://tausif.bd">Tausif</a>
 </h1>
 
 <p align="center">
-  <a href="https://tausif1337.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Technical+Lead+%40+DevTechGuru;DevOps+%2B+Generative+AI+enthusiast;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+  <a href="https://tausif.bd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Technical+Lead+%40+DevTechGuru;5%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Scalable+web+%26+mobile+products;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://tausif1337.dev"><img src="https://img.shields.io/badge/Portfolio-tausif1337.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:devtech.claude@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Portfolio-tausif.bd-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:tausif1337@gmail.com"><img src="https://img.shields.io/badge/Email-tausif1337-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tausif1337"><img src="https://img.shields.io/badge/LinkedIn-tausif1337-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=tausif1337&style=for-the-badge&color=00C8FF&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/tausif1337?style=for-the-badge&color=00C8FF&labelColor=1a1a1a"/>
 </p>
@@ -25,23 +26,24 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:        Tausif
-role:        Full-Stack Software Engineer & Technical Lead
-location:    🇧🇩 Bangladesh
+name:        Md. Tausif Hossain
+role:        Technical Lead
+location:    🇧🇩 Narayanganj, Dhaka, Bangladesh
 company:     DevTechGuru
-education:   B.Sc. in Computer Science & Engineering
-focus:       DevOps · Generative AI · CI/CD · AWS · Scalable Web Apps
+education:   B.Sc. in Computer Science & Engineering, IUB
+focus:       Python · Django · React · Next.js · AWS · System Design
+domains:     [HealthTech, PropTech, Enterprise]
 hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
 motto:       "Every line of code is an opportunity to leave a mark."
 ```
 
-At **DevTechGuru**, I lead a team of developers crafting innovative software solutions through agile methodologies — translating business demands into robust technical frameworks. With a foundation of academic rigor and a track record across PHP, Python, JavaScript, and DevOps, I thrive on meticulous code reviews and collaborative environments where creativity meets technology.
+**5+ years** building enterprise-grade systems across **medical, PropTech, and enterprise** domains. At **DevTechGuru**, I lead a cross-functional engineering team — translating complex business requirements into scalable web and mobile products, setting architecture, and shipping software that drives real business outcomes.
 
 <img src="./thoughtworks-gif_dribbble.gif" height="240px" align="right" alt="Coding animation"/>
 
-- 🔭 Currently leading microservices adoption at **DevTechGuru**
-- 🌱 Deep-diving into **Generative AI** & advanced **MLOps** workflows
-- 💼 Founder of [TechnicalBind](https://tausif1337.dev) — custom software since 2017
+- 🔭 Currently leading software delivery at **DevTechGuru**
+- 🎓 Teaching the next wave as **Software Engineering Instructor** at **Ostad**
+- 📐 Focus areas: system design, technical leadership, code review, and Agile/Scrum
 - 🎯 Goal: build software that elevates user experiences, not just meets specs
 - ⚡ Fun fact: I get genuinely excited about dashboards and metrics 📊
 
@@ -52,22 +54,22 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,php,js,java,cpp"/>
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,django,react,vue,nodejs,jquery,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs"/>
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,nginx,apache"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery"/>
 
-### DevOps & CI/CD
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab,ansible,terraform"/>
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=graphql,postman"/>
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=phpstorm,visualstudio,vscode,postman,linux,windows,apple"/>
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 
 </div>
 
@@ -80,26 +82,26 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 <td width="50%" valign="top">
 
 ### 🚀 DevTechGuru
-**Founding Member · Technical Lead · Sr. Full-Stack Engineer**
+**Technical Lead**
 <br/>📅 *Nov 2021 – Present*
-<br/>📍 *Dhaka Trade Center, Dhaka 1215*
+<br/>📍 *Dhaka, Bangladesh*
 
-- 🎯 Lead a team of developers delivering cutting-edge solutions
-- 🤝 Bridge cross-functional teams — business needs → technical wins
-- 🔄 Drive the full SDLC, from design to deployment
-- 📈 Spearheaded microservices adoption — faster releases & scale
+- 🎯 Lead a cross-functional engineering team delivering scalable web & mobile products
+- 🤝 Translate business requirements into detailed technical specs and system architectures
+- 🔄 Conduct code reviews and drive adoption of Agile/Scrum and engineering best practices
+- 📈 Spearheaded delivery of multiple high-profile client projects driving revenue growth
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 TechnicalBind
-**Founder & Self-Employed**
-<br/>📅 *Feb 2017 – Present*
-<br/>📍 *Narayanganj 1420, Dhaka, Bangladesh*
+### 🎓 Ostad
+**Software Engineering Instructor** *(concurrent)*
+<br/>📅 *Jun 2025 – Present*
+<br/>📍 *Bangladesh*
 
-- 💡 Custom software solutions for clients across industries
-- 🛠️ Owner of full lifecycle — gather, build, deploy, maintain
-- 🤝 Long-term client relationships rooted in trust & quality
+- 📚 Design and deliver curriculum for full-stack web & mobile development courses
+- 🧭 Mentor students through real-world projects, lifting completion and career outcomes
+- 💡 Provide technical guidance on Python, Django, JavaScript, and React ecosystems
 
 </td>
 </tr>
@@ -107,11 +109,73 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 <td colspan="2" valign="top">
 
 ### 🧪 DataSoft Systems Bangladesh Limited
-**Intern Software Engineer** — *Feb 2021 – May 2021* — *Rupayan Shelford, Mirpur Rd, Dhaka 1207*
+**Software Engineer** — *Feb 2021 – Jul 2021* — *Dhaka, Bangladesh*
 
-- 👥 Worked alongside senior engineers building & maintaining production apps
-- 💻 Hands-on experience across multiple languages and tooling
-- 🌐 Sharpened software development process fundamentals
+- 🌐 Designed and shipped a modern, responsive corporate web presence
+- 🔐 Built a secure attendance management system integrating facial recognition for access control
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Notable Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏘️ Gated Community Management
+<sub>PropTech / Smart Living · Web + Mobile</sub>
+
+End-to-end platform for visitor management, security monitoring, resident self-service, and guard tooling. Reduces manual overhead and improves community safety at scale.
+
+`Django` · `React` · `React Native` · `MySQL` · `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🦴 AI-Powered Implant Decision Support
+<sub>Medical AI / HealthTech</sub>
+
+Clinical tool applying AI image segmentation to orthopedic X-rays to recommend trial implant sizing and positioning — shortening pre-operative planning and improving surgical accuracy.
+
+`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🅿️ Smart Parking Management
+<sub>PropTech / Smart Infrastructure</sub>
+
+Real-time parking platform for multi-tenant buildings — guides drivers, automates reservations, and surfaces utilization analytics for facility operators.
+
+`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧬 Laboratory Information Management (LIMS)
+<sub>HealthTech / Research Automation</sub>
+
+Sample-lifecycle automation from intake to result reporting — eliminates manual bottlenecks and enforces audit-trail data integrity for high-throughput labs.
+
+`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🏢 Enterprise Resource Planning (ERP) System
+<sub>Enterprise Software · Multiple domestic & international clients</sub>
+
+Modular, cross-platform ERP unifying inventory, HR, finance, and operations — automated reporting and process automation to reduce duplication and accelerate decision-making across departments.
+
+`Django` · `React` · `Python` · `MySQL` · `Tailwind`
 
 </td>
 </tr>
@@ -121,8 +185,8 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 
 ## 🎓 Education
 
-> **Bachelor of Science (B.Sc.), Computer Science and Engineering**
-> Independent University, Bangladesh — *Jan 2016 – May 2021*
+> **Bachelor of Science (B.Sc.), Computer Science & Engineering**
+> Independent University, Bangladesh — *2016 – 2021*
 >
 > 📚 Active in extracurriculars, hackathons, coding competitions & tech clubs — sharpening critical thinking and problem-solving skills.
 
@@ -132,12 +196,12 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 
 <table>
 <tr>
-<td>🥇</td>
-<td><b>SECS Awards 2017</b><br/><sub>Independent University, Bangladesh — Dec 2017</sub><br/>Recognized for outstanding contributions in research and competitions.</td>
+<td>🥉</td>
+<td><b>2nd Runner-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>Developed <i>AR Doctor</i> — an Augmented Reality system using natural feature detection and tracking to analyze facial features and identify potential skin conditions.</td>
 </tr>
 <tr>
-<td>🥉</td>
-<td><b>2nd Runners-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>A standout finish at a brainstorming hackathon event.</td>
+<td>🏅</td>
+<td><b>Annual SECS Awards 2017</b><br/><sub>Independent University, Bangladesh — Dec 2017</sub><br/>Recognized for outstanding contributions in research, innovation, and competitive programming.</td>
 </tr>
 </table>
 
@@ -188,8 +252,9 @@ At **DevTechGuru**, I lead a team of developers crafting innovative software sol
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://tausif1337.dev"><img src="https://img.shields.io/badge/Website-tausif1337.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:devtech.claude@gmail.com"><img src="https://img.shields.io/badge/Gmail-devtech.claude-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Website-tausif.bd-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:tausif1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-tausif1337-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tausif1337"><img src="https://img.shields.io/badge/LinkedIn-tausif1337-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/tausif1337"><img src="https://img.shields.io/badge/GitHub-tausif1337-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
