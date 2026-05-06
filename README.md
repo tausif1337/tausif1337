@@ -5,12 +5,17 @@
 
 <p align="center">
   <a href="https://tausif.bd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Technical+Lead+%40+DevTechGuru;5%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Scalable+web+%26+mobile+products;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Senior+Full-Stack+Engineer+%7C+Tech+Lead;Open+to+Remote+-+4h+US-East+%2F+6h+EU+overlap;5%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
+  <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-00C8FF?style=for-the-badge&logo=googleearth&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B6-1a1a1a?style=for-the-badge&color=0a0a0a&labelColor=00C8FF"/>
   <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Portfolio-tausif.bd-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <a href="mailto:tausif1337@gmail.com"><img src="https://img.shields.io/badge/Email-tausif1337-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tausif1337"><img src="https://img.shields.io/badge/LinkedIn-tausif1337-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=tausif1337&style=for-the-badge&color=00C8FF&label=Profile+Views"/>
@@ -27,24 +32,27 @@
 
 ```yaml
 name:        Md. Tausif Hossain
-role:        Technical Lead
+role:        Senior Full-Stack Engineer · Technical Lead
 location:    🇧🇩 Narayanganj, Dhaka, Bangladesh
+timezone:    GMT+6  (overlap: 4h US-East · 6h EU · full APAC/MENA)
 company:     DevTechGuru
 education:   B.Sc. in Computer Science & Engineering, IUB
-focus:       Python · Django · React · Next.js · AWS · System Design
+focus:       Python · Django · TypeScript · React · Next.js · AWS · System Design
 domains:     [HealthTech, PropTech, Enterprise]
+open_to:     "Remote Senior / Staff Full-Stack or Tech Lead roles"
 hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
 motto:       "Every line of code is an opportunity to leave a mark."
 ```
 
-**5+ years** building enterprise-grade systems across **medical, PropTech, and enterprise** domains. At **DevTechGuru**, I lead a cross-functional engineering team — translating complex business requirements into scalable web and mobile products, setting architecture, and shipping software that drives real business outcomes.
+**5+ years** architecting and shipping production web and mobile systems for **HealthTech, PropTech, and enterprise** clients. At **DevTechGuru** I lead a cross-functional engineering team through **RFC-driven design**, **async written communication**, and structured code review — translating complex requirements into systems that meet compliance, scale, and reliability bars.
 
 <img src="./thoughtworks-gif_dribbble.gif" height="240px" align="right" alt="Coding animation"/>
 
+- 📡 **Open to remote roles** — Senior / Staff Full-Stack or Tech Lead
 - 🔭 Currently leading software delivery at **DevTechGuru**
-- 🎓 Teaching the next wave as **Software Engineering Instructor** at **Ostad**
-- 📐 Focus areas: system design, technical leadership, code review, and Agile/Scrum
-- 🎯 Goal: build software that elevates user experiences, not just meets specs
+- 🎓 Teaching the next wave as **Software Engineering Instructor** at **Ostad** *(concurrent, part-time)*
+- 📐 Focus areas: system design, technical leadership, RFC/ADR-driven design, async code review, Agile/Scrum
+- 🛠️ Stack of choice: **Python/Django** + **TypeScript/React/Next.js** on **AWS**
 - ⚡ Fun fact: I get genuinely excited about dashboards and metrics 📊
 
 ---
@@ -54,7 +62,7 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,php,js,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,php"/>
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs"/>
@@ -69,7 +77,12 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+
+### Remote Tooling
+<img src="https://skillicons.dev/icons?i=github,vscode,postman"/>
+<br/>
+<sub>Slack · Notion · Linear · Loom · async written communication</sub>
 
 </div>
 
@@ -86,22 +99,23 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <br/>📅 *Nov 2021 – Present*
 <br/>📍 *Dhaka, Bangladesh*
 
-- 🎯 Lead a cross-functional engineering team delivering scalable web & mobile products
-- 🤝 Translate business requirements into detailed technical specs and system architectures
-- 🔄 Conduct code reviews and drive adoption of Agile/Scrum and engineering best practices
-- 📈 Spearheaded delivery of multiple high-profile client projects driving revenue growth
+- 🎯 Lead a cross-functional engineering team across web, backend, and mobile
+- ☁️ Architect and operate production systems on **AWS (EC2, S3, IAM, CloudFront)** with PostgreSQL/MySQL backends and Docker-based deploys
+- 🔄 Established **trunk-based development**, **GitHub Actions CI/CD**, mandatory PR review, and **RFC-first** design culture
+- 🧭 Own the technical-interview rubric and onboarding pipeline; mentor engineers via written design review, pair-programming, and async code review
+- 📋 Translate stakeholder requirements into architectural decisions and rollout plans
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Ostad
-**Software Engineering Instructor** *(concurrent)*
+**Software Engineering Instructor** *(concurrent, part-time)*
 <br/>📅 *Jun 2025 – Present*
-<br/>📍 *Bangladesh*
+<br/>📍 *Remote*
 
-- 📚 Design and deliver curriculum for full-stack web & mobile development courses
-- 🧭 Mentor students through real-world projects, lifting completion and career outcomes
-- 💡 Provide technical guidance on Python, Django, JavaScript, and React ecosystems
+- 📚 Designed and deliver curriculum for advanced full-stack web & mobile development
+- 🧭 Mentor learners through real-world projects, written code review, and one-on-one technical coaching
+- 💡 Technical guidance on Python, Django, JavaScript, React, and React Native ecosystems
 
 </td>
 </tr>
@@ -111,8 +125,8 @@ motto:       "Every line of code is an opportunity to leave a mark."
 ### 🧪 DataSoft Systems Bangladesh Limited
 **Software Engineer** — *Feb 2021 – Jul 2021* — *Dhaka, Bangladesh*
 
+- 🔐 Built a secure web-based attendance management system integrating **facial recognition** for access control
 - 🌐 Designed and shipped a modern, responsive corporate web presence
-- 🔐 Built a secure attendance management system integrating facial recognition for access control
 
 </td>
 </tr>
@@ -120,28 +134,28 @@ motto:       "Every line of code is an opportunity to leave a mark."
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏘️ Gated Community Management
-<sub>PropTech / Smart Living · Web + Mobile</sub>
+#### 🦴 Orthopedic Implant Decision Support
+<sub>HealthTech / Clinical Decision Support</sub>
 
-End-to-end platform for visitor management, security monitoring, resident self-service, and guard tooling. Reduces manual overhead and improves community safety at scale.
+Clinical tool that processes orthopedic X-rays via image segmentation to recommend trial implant sizing and positioning — reduces manual estimation and shortens pre-operative planning.
 
-`Django` · `React` · `React Native` · `MySQL` · `Tailwind`
+`Django` · `DRF` · `React` · `OpenCV` · `DICOM` · `MySQL` · `AWS`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🦴 AI-Powered Implant Decision Support
-<sub>Medical AI / HealthTech</sub>
+#### 🏘️ Gated Community Management
+<sub>PropTech · Web + Mobile</sub>
 
-Clinical tool applying AI image segmentation to orthopedic X-rays to recommend trial implant sizing and positioning — shortening pre-operative planning and improving surgical accuracy.
+End-to-end platform for visitor management & access control, real-time security monitoring, resident self-service billing, and mobile-first guard tooling.
 
-`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+`Django` · `DRF` · `React` · `React Native` · `MySQL` · `AWS S3`
 
 </td>
 </tr>
@@ -151,9 +165,9 @@ Clinical tool applying AI image segmentation to orthopedic X-rays to recommend t
 #### 🅿️ Smart Parking Management
 <sub>PropTech / Smart Infrastructure</sub>
 
-Real-time parking platform for multi-tenant buildings — guides drivers, automates reservations, and surfaces utilization analytics for facility operators.
+Real-time parking platform for multi-tenant buildings — predictive availability, automated reservations, payment collection, and operator-facing utilization analytics.
 
-`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+`Django` · `DRF` · `React` · `MySQL` · `real-time` · `AWS`
 
 </td>
 <td width="50%" valign="top">
@@ -161,9 +175,9 @@ Real-time parking platform for multi-tenant buildings — guides drivers, automa
 #### 🧬 Laboratory Information Management (LIMS)
 <sub>HealthTech / Research Automation</sub>
 
-Sample-lifecycle automation from intake to result reporting — eliminates manual bottlenecks and enforces audit-trail data integrity for high-throughput labs.
+Sample-lifecycle automation (intake → tracking → reporting) with audit-trail design and **RBAC** for compliance in research and diagnostic environments.
 
-`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+`Django` · `React` · `MySQL` · `audit logging` · `RBAC`
 
 </td>
 </tr>
@@ -171,11 +185,11 @@ Sample-lifecycle automation from intake to result reporting — eliminates manua
 <td colspan="2" valign="top">
 
 #### 🏢 Enterprise Resource Planning (ERP) System
-<sub>Enterprise Software · Multiple domestic & international clients</sub>
+<sub>Enterprise SaaS · Multi-client</sub>
 
-Modular, cross-platform ERP unifying inventory, HR, finance, and operations — automated reporting and process automation to reduce duplication and accelerate decision-making across departments.
+Modular ERP unifying inventory, HR, finance, and operations; configurable per client; surfaces operational insights and accelerates cross-departmental decision-making.
 
-`Django` · `React` · `Python` · `MySQL` · `Tailwind`
+`Django` · `React` · `MySQL` · `modular plugin architecture` · `automated reporting`
 
 </td>
 </tr>
@@ -185,10 +199,14 @@ Modular, cross-platform ERP unifying inventory, HR, finance, and operations — 
 
 ## 🎓 Education
 
-> **Bachelor of Science (B.Sc.), Computer Science & Engineering**
+> **B.Sc. in Computer Science & Engineering**
 > Independent University, Bangladesh — *2016 – 2021*
->
-> 📚 Active in extracurriculars, hackathons, coding competitions & tech clubs — sharpening critical thinking and problem-solving skills.
+
+---
+
+## 📜 Certifications
+
+> **AWS Certified Solutions Architect — Associate** *(in progress)*
 
 ---
 
@@ -197,11 +215,7 @@ Modular, cross-platform ERP unifying inventory, HR, finance, and operations — 
 <table>
 <tr>
 <td>🥉</td>
-<td><b>2nd Runner-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>Developed <i>AR Doctor</i> — an Augmented Reality system using natural feature detection and tracking to analyze facial features and identify potential skin conditions.</td>
-</tr>
-<tr>
-<td>🏅</td>
-<td><b>Annual SECS Awards 2017</b><br/><sub>Independent University, Bangladesh — Dec 2017</sub><br/>Recognized for outstanding contributions in research, innovation, and competitive programming.</td>
+<td><b>2nd Runner-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>Built <i>AR Doctor</i> — an Augmented Reality system using natural feature detection and tracking to analyze facial features for skin-condition screening.</td>
 </tr>
 </table>
 
