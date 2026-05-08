@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://tausif.bd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Senior+Full-Stack+Engineer+%7C+Tech+Lead;Open+to+Remote+-+4h+US-East+%2F+6h+EU+overlap;5%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Crafting+software+from+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Senior+Full-Stack+Engineer+%7C+Tech+Lead;Open+to+Remote+-+4h+US-East+%2F+6h+EU+overlap;9%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Shipping+to+9+countries+from+%F0%9F%87%A7%F0%9F%87%A9+across+12%2B+timezones" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -33,26 +33,29 @@
 ```yaml
 name:        Md. Tausif Hossain
 role:        Senior Full-Stack Engineer · Technical Lead
-location:    🇧🇩 Narayanganj, Dhaka, Bangladesh
+location:    🇧🇩 Narayanganj, Bangladesh (GMT+6)
 timezone:    GMT+6  (overlap: 4h US-East · 6h EU · full APAC/MENA)
-company:     DevTechGuru
+company:     DevTechGuru (full-time) · TechnicalBind (founder, since 2017)
 education:   B.Sc. in Computer Science & Engineering, IUB
 focus:       Python · Django · TypeScript · React · Next.js · AWS · System Design
 domains:     [HealthTech, PropTech, Enterprise]
+ships_to:    [🇺🇸 US, 🇬🇧 UK, 🇨🇦 Canada, 🇩🇪 Germany, 🇦🇪 UAE, 🇸🇦 Saudi, 🇦🇺 Australia, 🇲🇾 Malaysia, 🇿🇦 South Africa]
 open_to:     "Remote Senior / Staff Full-Stack or Tech Lead roles"
 hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
 motto:       "Every line of code is an opportunity to leave a mark."
 ```
 
-**5+ years** architecting and shipping production web and mobile systems for **HealthTech, PropTech, and enterprise** clients. At **DevTechGuru** I lead a cross-functional engineering team through **RFC-driven design**, **async written communication**, and structured code review — translating complex requirements into systems that meet compliance, scale, and reliability bars.
+**9+ years** building production software for **HealthTech, PropTech, and enterprise** clients across **9 countries**. Architect and ship web and mobile systems on **Python/Django** + **TypeScript/React/Next.js** + **AWS** — leading cross-functional teams through **RFC-driven design**, **async written communication**, and structured code review.
 
 <img src="./thoughtworks-gif_dribbble.gif" height="240px" align="right" alt="Coding animation"/>
 
 - 📡 **Open to remote roles** — Senior / Staff Full-Stack or Tech Lead
-- 🔭 Currently leading software delivery at **DevTechGuru**
+- 🔭 Leading a **25-engineer cross-functional team** at **DevTechGuru** shipping to clients in **9 countries** across **12+ timezones**
+- 🏗️ Founded and run **TechnicalBind** (independent software studio) since 2017 — concurrent with DevTechGuru
 - 🎓 Teaching the next wave as **Software Engineering Instructor** at **Ostad** *(concurrent, part-time)*
 - 📐 Focus areas: system design, technical leadership, RFC/ADR-driven design, async code review, Agile/Scrum
 - 🛠️ Stack of choice: **Python/Django** + **TypeScript/React/Next.js** on **AWS**
+- ✍️ Writing about async-first engineering at [tausif.bd/blog](https://tausif.bd/blog)
 - ⚡ Fun fact: I get genuinely excited about dashboards and metrics 📊
 
 ---
@@ -77,7 +80,7 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux"/>
 
 ### Remote Tooling
 <img src="https://skillicons.dev/icons?i=github,vscode,postman"/>
@@ -99,13 +102,29 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <br/>📅 *Nov 2021 – Present*
 <br/>📍 *Dhaka, Bangladesh*
 
-- 🎯 Lead a cross-functional engineering team across web, backend, and mobile
-- ☁️ Architect and operate production systems on **AWS (EC2, S3, IAM, CloudFront)** with PostgreSQL/MySQL backends and Docker-based deploys
+- 🎯 Lead a **25-engineer cross-functional team** (web, backend, mobile) shipping HealthTech, PropTech, and enterprise SaaS products
+- 🌍 Delivered to clients in **US, UK, Canada, Germany, UAE, Saudi Arabia, Australia, Malaysia, and South Africa** — async across **12+ timezones**
+- ☁️ Architect and operate production systems on **AWS (EC2, S3, IAM, CloudFront, Route 53)** with self-hosted PostgreSQL/MySQL on EC2
 - 🔄 Established **trunk-based development**, **GitHub Actions CI/CD**, mandatory PR review, and **RFC-first** design culture
 - 🧭 Own the technical-interview rubric and onboarding pipeline; mentor engineers via written design review, pair-programming, and async code review
 - 📋 Translate stakeholder requirements into architectural decisions and rollout plans
 
 </td>
+<td width="50%" valign="top">
+
+### 🏗️ TechnicalBind
+**Founder & Tech Lead** *(concurrent, agency)*
+<br/>📅 *Feb 2017 – Present*
+<br/>📍 *Bangladesh*
+
+- 🚢 Founded and operate TechnicalBind, an independent software agency, since 2017
+- 🌐 Notable engagement: a high-traffic university content platform (Django, Next.js, React Native)
+- 📱 Shipped React Native apps to Google Play under the TechnicalBind brand: **SpendingFlow** (personal finance) and **NoorLock** (utility / focus tooling)
+- 🧭 Set technical direction and own end-to-end delivery for client engagements alongside primary role at DevTechGuru
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎓 Ostad
@@ -118,12 +137,12 @@ motto:       "Every line of code is an opportunity to leave a mark."
 - 💡 Technical guidance on Python, Django, JavaScript, React, and React Native ecosystems
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🧪 DataSoft Systems Bangladesh Limited
-**Software Engineer** — *Feb 2021 – Jul 2021* — *Dhaka, Bangladesh*
+**Software Engineering Intern**
+<br/>📅 *Feb 2021 – May 2021*
+<br/>📍 *Dhaka, Bangladesh*
 
 - 🔐 Built a secure web-based attendance management system integrating **facial recognition** for access control
 - 🌐 Designed and shipped a modern, responsive corporate web presence
@@ -143,7 +162,7 @@ motto:       "Every line of code is an opportunity to leave a mark."
 #### 🦴 Orthopedic Implant Decision Support
 <sub>HealthTech / Clinical Decision Support</sub>
 
-Clinical tool that processes orthopedic X-rays via image segmentation to recommend trial implant sizing and positioning — reduces manual estimation and shortens pre-operative planning.
+Clinical tool that processes orthopedic X-rays to recommend trial implant sizing and positioning. **Role: Tech Lead** — architected the Django/React stack, integrated the in-house ML team's segmentation model, owned AWS productionization and surgeon-facing UX.
 
 `Django` · `DRF` · `React` · `OpenCV` · `DICOM` · `MySQL` · `AWS`
 
@@ -194,6 +213,15 @@ Modular ERP unifying inventory, HR, finance, and operations; configurable per cl
 </td>
 </tr>
 </table>
+
+---
+
+## ✍️ Writing
+
+> 📝 **[Shipping to nine countries from Bangladesh: how a 25-engineer team works fully async](https://tausif.bd/blog/async-engineering-bangladesh-nine-countries)** — *6 min read*
+> Time-zone math from a Bangladesh-based agency shipping software to clients across nine countries. The constraint forces clarity. The clarity compounds.
+
+More on [tausif.bd/blog](https://tausif.bd/blog).
 
 ---
 
