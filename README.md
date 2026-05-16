@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px" alt="Waving Hand"/>
-  Hey, I'm <a href="https://tausif.bd">Tausif</a>
+  Hi, I'm <a href="https://tausif.bd">Tausif</a>
 </h1>
 
 <p align="center">
   <a href="https://tausif.bd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Senior+Full-Stack+Engineer+%7C+Tech+Lead;Open+to+Remote+-+4h+US-East+%2F+6h+EU+overlap;9%2B+years+across+HealthTech%2C+PropTech+%26+Enterprise;Shipping+to+9+countries+from+%F0%9F%87%A7%F0%9F%87%A9+across+12%2B+timezones" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%7C+Tech+Lead;Three+engineering+homes%2C+one+practice;9%2B+years+writing+software+for+production;Shipping+to+9+countries+from+%F0%9F%87%A7%F0%9F%87%A9+across+12%2B+timezones" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -32,31 +32,32 @@
 
 ```yaml
 name:        Md. Tausif Hossain
-role:        Senior Full-Stack Engineer · Technical Lead
+role:        Senior Software Engineer & Tech Lead
 location:    🇧🇩 Narayanganj, Bangladesh (GMT+6)
 timezone:    GMT+6  (overlap: 4h US-East · 6h EU · full APAC/MENA)
-company:     DevTechGuru (full-time) · TechnicalBind (founder, since 2017)
+homes:       DevTechGuru (Tech Lead, since 2021)
+             TechnicalBind (Founder, since 2017)
+             Ostad (Instructor, since 2025)
 education:   B.Sc. in Computer Science & Engineering, IUB
 focus:       Python · Django · TypeScript · React · Next.js · AWS · System Design
-domains:     [HealthTech, PropTech, Enterprise]
+domains:     [HealthTech, PropTech, Enterprise SaaS]
 ships_to:    [🇺🇸 US, 🇬🇧 UK, 🇨🇦 Canada, 🇩🇪 Germany, 🇦🇪 UAE, 🇸🇦 Saudi, 🇦🇺 Australia, 🇲🇾 Malaysia, 🇿🇦 South Africa]
 open_to:     "Remote Senior / Staff Full-Stack or Tech Lead roles"
 hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
-motto:       "Every line of code is an opportunity to leave a mark."
 ```
 
-**9+ years** building production software for **HealthTech, PropTech, and enterprise** clients across **9 countries**. Architect and ship web and mobile systems on **Python/Django** + **TypeScript/React/Next.js** + **AWS** — leading cross-functional teams through **RFC-driven design**, **async written communication**, and structured code review.
+**9+ years** writing software for production across three engineering homes: Tech Lead at **DevTechGuru** since 2021, founder of **TechnicalBind** since 2017, and instructor at **Ostad** since 2025. Stack runs on **Python/Django** + **TypeScript/React/Next.js** + **AWS**. Most of what I write, teach, and review draws from systems currently in production for clients across **9 countries**.
 
 <img src="./thoughtworks-gif_dribbble.gif" height="240px" align="right" alt="Coding animation"/>
 
 - 📡 **Open to remote roles** — Senior / Staff Full-Stack or Tech Lead
-- 🔭 Leading a **25-engineer cross-functional team** at **DevTechGuru** shipping to clients in **9 countries** across **12+ timezones**
-- 🏗️ Founded and run **TechnicalBind** (independent software studio) since 2017 — concurrent with DevTechGuru
-- 🎓 Teaching the next wave as **Software Engineering Instructor** at **Ostad** *(concurrent, part-time)*
-- 📐 Focus areas: system design, technical leadership, RFC/ADR-driven design, async code review, Agile/Scrum
-- 🛠️ Stack of choice: **Python/Django** + **TypeScript/React/Next.js** on **AWS**
-- ✍️ Writing about async-first engineering at [tausif.bd/blog](https://tausif.bd/blog)
-- ⚡ Fun fact: I get genuinely excited about dashboards and metrics 📊
+- 🔭 **DevTechGuru** — Tech Lead on a cross-functional team shipping HealthTech, PropTech, and enterprise SaaS to clients in **9 countries** across **12+ timezones**
+- 🏗️ **TechnicalBind** — independent software studio I started in 2017, still operating with a small distributed team
+- 🎓 **Ostad** — teaching advanced full-stack engineering, drawn from production work shipped at DevTechGuru and TechnicalBind
+- 👥 **2,300+ engineers mentored** across the three through written code review, design review, and one-on-one coaching
+- 📐 Focus: system design, technical leadership, RFC/ADR-driven design, async code review, production-grounded practice
+- 🛠️ Stack: **Python/Django** + **TypeScript/React/Next.js** on **AWS**
+- ✍️ Writing about async-first engineering and production lessons at [tausif.bd/blog](https://tausif.bd/blog)
 
 ---
 
@@ -102,25 +103,26 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <br/>📅 *Nov 2021 – Present*
 <br/>📍 *Dhaka, Bangladesh*
 
-- 🎯 Lead a **25-engineer cross-functional team** (web, backend, mobile) shipping HealthTech, PropTech, and enterprise SaaS products
-- 🌍 Delivered to clients in **US, UK, Canada, Germany, UAE, Saudi Arabia, Australia, Malaysia, and South Africa** — async across **12+ timezones**
+- 🎯 Tech Lead on a cross-functional team (web, backend, mobile) shipping HealthTech, PropTech, and enterprise SaaS products
+- 🌍 Delivered to clients in **US, UK, Canada, Germany, UAE, Saudi Arabia, Australia, Malaysia, and South Africa**, async across **12+ timezones**
 - ☁️ Architect and operate production systems on **AWS (EC2, S3, IAM, CloudFront, Route 53)** with self-hosted PostgreSQL/MySQL on EC2
-- 🔄 Established **trunk-based development**, **GitHub Actions CI/CD**, mandatory PR review, and **RFC-first** design culture
-- 🧭 Own the technical-interview rubric and onboarding pipeline; mentor engineers via written design review, pair-programming, and async code review
+- 🔄 Contributed to the move toward **trunk-based development**, **GitHub Actions CI/CD**, mandatory PR review, and **RFC-first** design
+- 🧭 Maintain the technical-interview rubric and onboarding pipeline; mentor engineers through written design review, pair-programming, and async code review
 - 📋 Translate stakeholder requirements into architectural decisions and rollout plans
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏗️ TechnicalBind
-**Founder & Tech Lead** *(concurrent, agency)*
+**Founder & Tech Lead** *(concurrent, independent studio)*
 <br/>📅 *Feb 2017 – Present*
 <br/>📍 *Bangladesh*
 
-- 🚢 Founded and operate TechnicalBind, an independent software agency, since 2017
-- 🌐 Notable engagement: a high-traffic university content platform (Django, Next.js, React Native)
+- 🚢 Founded TechnicalBind in 2017 as an independent software studio, still operating with a small distributed team
+- 🌐 Notable engagement: a high-traffic university content platform serving 2M+ daily reads (Django, Next.js, React Native)
 - 📱 Shipped React Native apps to Google Play under the TechnicalBind brand: **SpendingFlow** (personal finance) and **NoorLock** (utility / focus tooling)
-- 🧭 Set technical direction and own end-to-end delivery for client engagements alongside primary role at DevTechGuru
+- 🧭 Responsible end-to-end for client engagements: scoping, architecture, delivery, and post-launch support
+- 👥 Mentor junior contributors on the studio team through written code review and structured technical feedback
 
 </td>
 </tr>
@@ -132,9 +134,9 @@ motto:       "Every line of code is an opportunity to leave a mark."
 <br/>📅 *Jun 2025 – Present*
 <br/>📍 *Remote*
 
-- 📚 Designed and deliver curriculum for advanced full-stack web & mobile development
-- 🧭 Mentor learners through real-world projects, written code review, and one-on-one technical coaching
-- 💡 Technical guidance on Python, Django, JavaScript, React, and React Native ecosystems
+- 📚 Designed and deliver curriculum for advanced full-stack web & mobile development covering Python, Django, JavaScript, React, and React Native
+- 🔗 Course material drawn from real systems shipped at DevTechGuru and TechnicalBind, so content stays close to production
+- 🧭 Mentor learners through written code review and one-on-one technical coaching; several have gone on to ship to production at companies they had not previously applied to
 
 </td>
 <td width="50%" valign="top">
@@ -162,31 +164,31 @@ motto:       "Every line of code is an opportunity to leave a mark."
 #### 🦴 Orthopedic Implant Decision Support
 <sub>HealthTech / Clinical Decision Support</sub>
 
-Clinical tool that processes orthopedic X-rays to recommend trial implant sizing and positioning. **Role: Tech Lead** — architected the Django/React stack, integrated the in-house ML team's segmentation model, owned AWS productionization and surgeon-facing UX.
+Clinical tool that processes orthopedic X-rays to recommend trial implant sizing and positioning. **Role: Tech Lead** — architected the Django/React stack, integrated the in-house ML team's segmentation model, and owned AWS productionization and surgeon-facing UX. Cut pre-operative planning time by ~40% on the first ward where it was deployed.
 
 `Django` · `DRF` · `React` · `OpenCV` · `DICOM` · `MySQL` · `AWS`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🏘️ Gated Community Management
-<sub>PropTech · Web + Mobile</sub>
+#### 🅿️ Smart Parking Management
+<sub>PropTech / Smart Infrastructure</sub>
 
-End-to-end platform for visitor management & access control, real-time security monitoring, resident self-service billing, and mobile-first guard tooling.
+Camera-driven parking platform handling 100,000+ vehicles across multiple lots. A Postgres row-level lock eliminated double-booking under concurrent load; a pluggable camera adapter supports multiple hardware vendors.
 
-`Django` · `DRF` · `React` · `React Native` · `MySQL` · `AWS S3`
+`Django` · `Next.js` · `PostgreSQL` · `row-level locking` · `AWS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🅿️ Smart Parking Management
-<sub>PropTech / Smart Infrastructure</sub>
+#### 📰 Enterprise Content Platform
+<sub>Platforms / High-traffic CMS</sub>
 
-Real-time parking platform for multi-tenant buildings — predictive availability, automated reservations, payment collection, and operator-facing utilization analytics.
+Custom CMS for a university with 2M+ daily reads. Publishing dropped from two days to fifteen minutes; engineering is out of the publishing loop.
 
-`Django` · `DRF` · `React` · `MySQL` · `real-time` · `AWS`
+`Next.js` · `Django` · `MySQL` · `in-memory cache` · `AWS`
 
 </td>
 <td width="50%" valign="top">
@@ -194,9 +196,9 @@ Real-time parking platform for multi-tenant buildings — predictive availabilit
 #### 🧬 Laboratory Information Management (LIMS)
 <sub>HealthTech / Research Automation</sub>
 
-Sample-lifecycle automation (intake → tracking → reporting) with audit-trail design and **RBAC** for compliance in research and diagnostic environments.
+Sample-lifecycle automation covering intake, tracking, and result reporting, with audit-trail design and **RBAC** for compliance in research and diagnostic environments.
 
-`Django` · `React` · `MySQL` · `audit logging` · `RBAC`
+`Laravel` · `Livewire` · `Laratrust` · `PostgreSQL` · `audit logging`
 
 </td>
 </tr>
@@ -206,20 +208,22 @@ Sample-lifecycle automation (intake → tracking → reporting) with audit-trail
 #### 🏢 Enterprise Resource Planning (ERP) System
 <sub>Enterprise SaaS · Multi-client</sub>
 
-Modular ERP unifying inventory, HR, finance, and operations; configurable per client; surfaces operational insights and accelerates cross-departmental decision-making.
+Event-driven ERP unifying inventory, HR, finance, and operations across 9 departments and 200+ daily users; tax-compliant accounting workflows passed first external audit at 100%.
 
-`Django` · `React` · `MySQL` · `modular plugin architecture` · `automated reporting`
+`Django` · `Next.js` · `MySQL` · `event-driven modules` · `audit logging` · `AWS`
 
 </td>
 </tr>
 </table>
 
+More case studies on [tausif.bd](https://tausif.bd).
+
 ---
 
 ## ✍️ Writing
 
-> 📝 **[Shipping to nine countries from Bangladesh: how a 25-engineer team works fully async](https://tausif.bd/blog/async-engineering-bangladesh-nine-countries)** — *6 min read*
-> Time-zone math from a Bangladesh-based agency shipping software to clients across nine countries. The constraint forces clarity. The clarity compounds.
+> 📝 **[Shipping to nine countries from Bangladesh: how a distributed engineering team works fully async](https://tausif.bd/blog/async-engineering-bangladesh-nine-countries)** — *6 min read*
+> Time-zone math from a Bangladesh-based team shipping software to clients across nine countries. The constraint forces clarity. The clarity compounds.
 
 More on [tausif.bd/blog](https://tausif.bd/blog).
 
@@ -234,7 +238,7 @@ More on [tausif.bd/blog](https://tausif.bd/blog).
 
 ## 📜 Certifications
 
-> **AWS Certified Solutions Architect — Associate** *(in progress)*
+> **AWS Certified Solutions Architect — Associate** *(in progress, 2026)*
 
 ---
 
@@ -243,7 +247,7 @@ More on [tausif.bd/blog](https://tausif.bd/blog).
 <table>
 <tr>
 <td>🥉</td>
-<td><b>2nd Runner-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>Built <i>AR Doctor</i> — an Augmented Reality system using natural feature detection and tracking to analyze facial features for skin-condition screening.</td>
+<td><b>2nd Runner-Up — DIU App Contest 2017</b><br/><sub>Daffodil International University — May 2017</sub><br/>Built <i>AR Doctor</i>, an Augmented Reality system using natural feature detection and tracking to analyze facial features for skin-condition screening.</td>
 </tr>
 </table>
 
@@ -270,21 +274,21 @@ More on [tausif.bd/blog](https://tausif.bd/blog).
 
 ---
 
-## ✨ What Drives Me
+## ✨ How I Work
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-  <h3>📈 Passion for Metrics</h3>
-  <p>I'm fascinated by what data unlocks — every dashboard is a doorway to continuous improvement.</p>
+  <h3>🛠️ Production-grounded</h3>
+  <p>What I write, teach, and review is drawn from systems currently running in production. Theory follows practice, not the other way around.</p>
 </td>
 <td width="33%" align="center" valign="top">
-  <h3>🚀 Embracing the Unknown</h3>
-  <p>The thrill of an evolving stack keeps me sharp. New problems = new ways to grow.</p>
+  <h3>✍️ Async-first by default</h3>
+  <p>Decisions live in writing, code reviews are the collaboration medium, and meetings are the exception. Built that way out of necessity, kept that way on purpose.</p>
 </td>
 <td width="33%" align="center" valign="top">
-  <h3>💎 Quality That Lasts</h3>
-  <p>Every commit, every design choice, every optimization — small marks that build great software.</p>
+  <h3>🧭 Boring tools, until they hurt</h3>
+  <p>One Postgres until a query you cannot rewrite is the bottleneck. One framework until the team feels the seams. Resume-driven choices are how products break.</p>
 </td>
 </tr>
 </table>
@@ -301,7 +305,7 @@ More on [tausif.bd/blog](https://tausif.bd/blog).
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/tausif1337">tausif1337</a> — thanks for stopping by!</i>
+  <i>⭐ From <a href="https://github.com/tausif1337">tausif1337</a> — thanks for stopping by.</i>
 </p>
 
 <div align="center">
